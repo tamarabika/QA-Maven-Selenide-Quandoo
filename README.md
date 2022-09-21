@@ -19,4 +19,6 @@ Installation and Test Run
 Clone repository and perform the following command:
 
 mvn test
-
+Contributors
+Tamara Bikashova
+tamara.bikashova@gmail.com
